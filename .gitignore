@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+Thumbs.db
+week3/model_data/yolo.h5
+week4/Neural_Style_Transfer/pretrained-model/imagenet-vgg-verydeep-19.mat
+week4/Face_Recognition/weights/*.csv
+
