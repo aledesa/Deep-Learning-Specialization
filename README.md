@@ -18,7 +18,7 @@ Syllabus: [Syllabus](https://www.coursera.org/specializations/deep-learning)
 5) Sequence Models. (yet to come)
 
 # Disclaimer
-These notes are for my own backups and for future readings. All error are my own.
+These notes are for my own backups and for future readings. All mistakes are my own.
 
 Some screenshots and quotes are taken as they appear or modified from the ones on Coursera. 
 
