@@ -19,17 +19,19 @@ Syllabus: [Syllabus](https://www.coursera.org/specializations/deep-learning)
 
 4) Convolutional Neural Networks.
 
-5) Sequence Models. (yet to come)
+5) Sequence Models. (in progress)
 
 # Disclaimer
 These notes are for my own backups and for future readings. All mistakes are my own.
 
 Some screenshots and quotes are taken as they appear or modified from the ones on Coursera. 
 
-Some great sources of material:
+Some great sources of material from which I have also taken pictures:
 
 - https://github.com/bhishanpdl/Deep_Learning_Specialization_Coursera.
 
 - https://tiefenauer.github.io/ml.
 
 - http://cs231n.stanford.edu/.
+
+- https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
