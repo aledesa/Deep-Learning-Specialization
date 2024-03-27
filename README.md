@@ -24,7 +24,7 @@ Syllabus: [Syllabus](https://www.coursera.org/specializations/deep-learning)
 # Disclaimer
 These notes are for my own backups and for future readings. All mistakes are my own.
 
-Some screenshots and quotes are taken as they appear or modified from the ones on Coursera. 
+Some screenshots and quotes are taken as they appear or modified from the ones on Coursera/DeepLearning.AI. 
 
 Some great sources of material from which I have also taken pictures:
 
