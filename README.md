@@ -19,7 +19,7 @@ Syllabus: [Syllabus](https://www.coursera.org/specializations/deep-learning)
 
 4) Convolutional Neural Networks.
 
-5) Sequence Models. (in progress)
+5) Sequence Models.
 
 # Disclaimer
 These notes are for my own backups and for future readings. All mistakes are my own.
